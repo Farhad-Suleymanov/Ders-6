@@ -1,0 +1,35 @@
+#basliq1{
+    background-color: purple;
+    width: 250px;
+    height: 50px;
+}
+
+#p1{
+    background-color: orangered;
+    width: 150px;
+}
+#p2{
+    background-color: teal;
+    height: 300px;
+}
+/* homework2 */
+div{
+    width: 300px;
+    background-color: rgb(154, 154, 154);
+}
+
+#p3{
+    font-size: 12px;
+}
+#basliq2{
+    font-size: 25px;
+    background-color: yellow;
+}
+.p4{
+    font-size: 17px;
+}
+.homework{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
